@@ -1,7 +1,7 @@
 # Shopping-List
 
-#HTML has everything needed in order to create a basic shopping list.
+#HTML Has everything needed in order to create a basic shopping list.
 
-#CSS has everything needed in order to cross out each li item when clicked (will update in future to make prettier).
+#CSS Crosses out each li item when clicked (will update in future to make web page prettier).
 
-#JS has the basic shopping list features + done class + delete button.
+#JS Includes the basic shopping list features + .done class && delete button.
